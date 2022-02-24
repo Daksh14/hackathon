@@ -1,2 +1,2 @@
-# hackathon
-Our project for hackathon
+###### GraphForAll Challenge
+# Hackathon Project
