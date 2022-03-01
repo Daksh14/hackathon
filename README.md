@@ -34,7 +34,9 @@ As stated by TigerGraph 'We want to unlock peoples' passions and creativity for 
 
 
 - Problem Solution Summary: 
-    - A electron web app that will track where you go, what you spend your money on, what you did for fun, searched online and more for the week/month/year and then display it to you in some meaningfull way. For instance help you break a bad habit of drinking too much coffee and spending $10 a day at starbucks simotaneously. We want the app to not discriminate, but give helpfull advice and resources. It should also be interactive and unique to keep a client engaged and bettering their lives. We also plan to have a leader board / mental health rating system of some kind.
+    - We intend to develop an electron web app that has the capability of monitoring particularly significant aspects of your life, for example, What you do for fun, your browser history, How you spend your money, Where you go and other key metrics that will allow the app to identify users bad-habits and provide useful and relative advice and resources to help themselves break these habits.
+    - We wish for this application to be non-discriminatory and non-judgemental in a capacity where it is still capable of providing the advice and resources without offending the user. We intend to build a fruitful application that will be highly-interactive and unique to keep the user engaged and ensure a betterment in their lives. To ensure this frequent and active engagement we have discussed the possibility of an integrated leader-board feature.
+
 
 - What did you learn?
     - Tbd.
@@ -67,11 +69,14 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - ### Collaborators
 - Giovanni Moscato
     - codingcodewhilegoofin
+- Joshua Piecko
+    - JP
 - ### GitHub profiles
     - [Gios github](https://github.com/codingcodewhilegoofin)
-
+    - [JPs github](https://github.com/Josh-Piecko)
 - ### Devpost profiles
     - [Gios devpost](https://devpost.com/codingcodewhilegoofin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
+    - [JPs devpost](https://devpost.com/Josh-Piecko?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ### Third-party assets 
 
 - ### Tutorials
