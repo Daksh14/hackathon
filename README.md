@@ -9,6 +9,7 @@ As stated by TigerGraph 'We want to unlock peoples' passions and creativity for 
 ## Table of Contents 
 
 - [Description](#description)
+- [Learning resources](#learning-resources-in-order-of-importance)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -38,7 +39,13 @@ As stated by TigerGraph 'We want to unlock peoples' passions and creativity for 
 - What did you learn?
     - Tbd.
 
-
+# Learning resources in order of importance: 
+- [Start Devpost](https://www.youtube.com/watch?v=vCa7QFFthfU)
+- [Git basics](https://www.youtube.com/watch?v=USjZcfj8yxE)
+- [Git hub](https://www.youtube.com/watch?v=nhNq2kIvi9s)
+- [Tiger graph get started](https://www.youtube.com/playlist?list=PLq4l3NnrSRp6VqoDA5BV95XVEHp30Eexx)
+- [Overview of React](https://www.youtube.com/watch?v=Tn6-PIqc4UM)
+- [Overview of React Native](https://www.youtube.com/watch?v=X8ipUgXH6jw)
 
 ## Installation
 
@@ -58,11 +65,17 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 ## Credits
 
 - ### Collaborators
+- Giovanni Moscato
+    - codingcodewhilegoofin
 - ### GitHub profiles
+    - [Gios github](https://github.com/codingcodewhilegoofin)
 
+- ### Devpost profiles
+    - [Gios devpost](https://devpost.com/codingcodewhilegoofin?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
 - ### Third-party assets 
 
 - ### Tutorials
+- [Tiger graph get started](https://www.youtube.com/playlist?list=PLq4l3NnrSRp6VqoDA5BV95XVEHp30Eexx)
 ---
 ## License
 
